@@ -1,1 +1,2 @@
 # odin-recipes
+This is a recipes website. It contains list of different recipes. If you click any of the recipe in the link it will take you to an other page, where you can find full recpe with ingredients.
